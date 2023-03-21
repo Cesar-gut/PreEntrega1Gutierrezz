@@ -3,7 +3,7 @@ import {Link} from "react-router-dom";
 
 const NavCategories = () => {
     const categories = [
-        {id: 1, name:"holaaaaInicio", route: "categories/Inicio"},
+        {id: 1, name:"Inicio", route: "categories/Inicio"},
         {id: 2, name:"¿Qué ofrecemos?", route: "categories/¿Qué ofrecemos?"},
         {id: 3, name:"Piñatas", route: "categories/Piñatas"},
         {id: 4, name:"Modalidad de trabajo", route: "categories/Modalidad de trabajo"},
