@@ -1,0 +1,45 @@
+.barra_de_navegacion {
+    display: flex;
+    background-color: rgb(202, 147, 195);
+    height: 150px;
+}
+  
+.logo {
+    display: flex;
+    padding-left: 20px;
+    width: 160px;
+    height: 150px;
+}
+  
+.titulo{
+    height: 140px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.nav_categories{
+    margin-top: 30px;
+}
+
+.contenedor_carrito{
+    display: flex;
+    width: 150px;
+    margin-top: 30px;
+    text-decoration: none;
+    justify-content: center;
+    align-self: center;
+    color:rgb(168, 224, 166);
+}
+
+.numero{
+    font-size: 28px;
+    align-self: center;
+    color: rgb(22, 18, 18);
+}
+
+
+
+
+
+
+
